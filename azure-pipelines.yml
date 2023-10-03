@@ -8,8 +8,8 @@ name: $(Date:yyyyMMdd)$(Rev:.rr)
 #       name: DigitalInnovation/dta-ds-platform-scripts
 #       ref: debug_ci_trigger
       
-pr:
-  - main
+# pr:
+#   - main
 
 # trigger: none
 
