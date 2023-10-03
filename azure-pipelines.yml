@@ -11,7 +11,7 @@ name: $(Date:yyyyMMdd)$(Rev:.rr)
 pr:
   - main
 
-trigger: none
+# trigger: none
 
 # trigger:
 #   batch: true
