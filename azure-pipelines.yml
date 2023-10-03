@@ -1,12 +1,12 @@
 name: $(Date:yyyyMMdd)$(Rev:.rr)
 
-# resources:
-#   repositories:
-#     - repository: templates
-#       type: github
-#       endpoint: DigitalInnovation
-#       name: DigitalInnovation/dta-ds-platform-scripts
-#       ref: debug_ci_trigger
+resources:
+  repositories:
+    - repository: templates
+      type: github
+      endpoint: DigitalInnovation
+      name: DigitalInnovation/dta-ds-platform-scripts
+      ref: debug_ci_trigger
       
 # pr:
 #   - main
