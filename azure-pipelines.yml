@@ -10,7 +10,7 @@ name: $(Date:yyyyMMdd)$(Rev:.rr)
       
 pr:
   - main
-  - dev
+  - newdev
 
 # trigger: none
 
@@ -19,7 +19,7 @@ trigger:
   branches:
     include:
       - main
-      - dev
+      - newdev
       # - develop
       # - feature/*
       # - hotfix/*
