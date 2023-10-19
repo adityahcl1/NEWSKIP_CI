@@ -12,8 +12,6 @@ pr:
   - main
   - mshiva
 
-trigger: none
-
 trigger:
   # batch: true
   branches:
