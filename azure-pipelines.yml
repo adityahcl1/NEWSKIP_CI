@@ -12,7 +12,7 @@ pr:
   - main
   - mshiva
 
-# trigger: none
+trigger: none
 
 trigger:
   # batch: true
